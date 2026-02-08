@@ -1,0 +1,5 @@
+Refunds: Customers can request refunds within 30 days of purchase.
+Account: Passwords can be reset using the "Forgot Password" link.
+Technical: If the app crashes, restart it or update to the latest version.
+Features: New features are added every month based on user feedback.
+Billing: Customers can check invoices in their account dashboard.
